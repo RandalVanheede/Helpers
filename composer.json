@@ -1,0 +1,17 @@
+{
+    "name": "randalvanheede/helpers",
+    "description": "Provides helper classes and functions for various functionalities.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RandalVanheede\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Randal Vanheede",
+            "email": "randal.vanheede@gmail.com"
+        }
+    ],
+    "require": {}
+}
